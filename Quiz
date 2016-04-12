@@ -1,9 +1,8 @@
 Explain what Inheritance is:
 Inheritance is where sub-classes inherit fields and methods through a class higher in the hierarchy. that class would be the 
-"super" to the subclasses, this can also go infinitely deeper(eg: subclass of subclass).
-
-
-
+"super" to the subclasses, this can also go infinitely deeper(eg: subclass of subclass), However a class can only have one super
+class at a time.
 
 Explain what Polymorphism is:
-Polymorphism is the override of a method via a sub-class. It is similar to overloading, however it is done on two seperate files.
+Polymorphism is the override of a method via a sub-class. It is similar to overloading, however it is done on two seperate files. 
+It allows the user to have the ability to morph a method, resulting in more than one use for a method.
